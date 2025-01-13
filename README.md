@@ -17,3 +17,11 @@ $Env:DistrosDir = "C:\WSL\Distros"
 ```powershell
 powershell -ExecutionPolicy Bypass -File "install.ps1"
 ```
+
+## Export
+
+### PowerShell
+
+```powershell
+powershell -ExecutionPolicy Bypass -File "export.ps1"
+```
