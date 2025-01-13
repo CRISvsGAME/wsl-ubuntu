@@ -25,3 +25,11 @@ powershell -ExecutionPolicy Bypass -File "install.ps1"
 ```powershell
 powershell -ExecutionPolicy Bypass -File "export.ps1"
 ```
+
+## Import
+
+### PowerShell
+
+```powershell
+powershell -ExecutionPolicy Bypass -File "import.ps1"
+```
